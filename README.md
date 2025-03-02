@@ -1,4 +1,4 @@
-# Create a Simple Shell Script
+# Create a Simple Shell Script for Backup
 A simple bash script for automating daily backups using `tar`, `cp`, and `date`.
 
 
